@@ -1019,7 +1019,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":0.0,"g":102.64801025390625,"b":722.0091552734375,"a":1.0}'
+      m_SerializableObject: '{"r":1104.82080078125,"g":234.60118103027345,"b":57.32561492919922,"a":1.0}'
     m_Space: -1
   m_Property:
     name: _Color
@@ -1221,7 +1221,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector2, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":1.0,"y":3.0}'
+      m_SerializableObject: '{"x":1.0,"y":2.0}'
     m_Space: -1
   m_Property:
     name: _MainTexTiling
@@ -1323,7 +1323,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector2, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":6.0,"y":2.0}'
+      m_SerializableObject: '{"x":4.0,"y":3.0}'
     m_Space: -1
   m_Property:
     name: _MainTexSpeed
@@ -1423,7 +1423,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 2
+      m_SerializableObject: 3
     m_Space: -1
   m_Property:
     name: _MainTexPower
@@ -1860,7 +1860,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.0,"y":0.28037717938423159,"z":0.9490196108818054}'
+      m_SerializableObject: '{"x":0.9490196108818054,"y":0.045048788189888,"z":0.0}'
     m_Space: -1
   m_Property:
     name: _Color
